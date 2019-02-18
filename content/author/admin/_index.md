@@ -19,21 +19,14 @@ bio = "My research interests include distributed robotics, mobile computing and 
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Gene Regulation",
-  "Epigenomics in Disease",
-  "Machine Learning",
-  "Biological Networks",
-  "Computational Biomedicine"
-]
+#interests = [
+#  "Gene Regulation",
+#  "Epigenomics in Disease",
+#  "Machine Learning",
+#  "Biological Networks",
+#  "Computational Biomedicine"
+#]
 
-Projects = [
-  "Gene Regulation",
-  "Epigenomics in Disease",
-  "Machine Learning",
-  "Biological Networks",
-  "Computational Biomedicine"
-]
 
 
 # Social/Academic Networking
@@ -65,5 +58,7 @@ Projects = [
 
 +++
 
-The Biomedical Genomics group in the Health Data Science Unit is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
+The **Biomedical Genomics Group** in the Health Data Science Unit is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
+
+We are part of the *OpenLab Epigenomics* initiative to provide support and expertise to groups generating large scale epigenomics datasets like ChIP-seq, ATAC-seq and chromatin interaction data.
 
