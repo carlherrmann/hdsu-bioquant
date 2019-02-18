@@ -18,31 +18,31 @@ weight = 3
 
 ## Current lab members
 
-#### Carl Herrmann
+##### Carl Herrmann
 
 Group leader
 
-#### Ashwini Sharma
+##### Ashwini Sharma
 
 Postdoc
 
-#### Andres Quintero
+##### Andres Quintero
 
 PhD student
 
-#### Jana Dahlhoff
+##### Jana Dahlhoff
 
 Bachelor student
 
-#### Christian Heyer
+##### Christian Heyer
 
 Scientist
 
-#### Asma Hamid
+##### Asma Hamid
 
 Master student
 
-#### Anne-Claire Kröger
+##### Anne-Claire Kröger
 
 Bachelor student
 
@@ -55,4 +55,4 @@ Bachelor student
 * Paul Saary
 * Ron Schwessinger
 
-###### We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
+We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
