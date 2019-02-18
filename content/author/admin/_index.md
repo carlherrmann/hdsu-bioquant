@@ -58,7 +58,7 @@ email = ""
 
 +++
 
-The **Biomedical Genomics Group** in the Health Data Science Unit is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
+The **Biomedical Genomics Group** in the **Health Data Science Unit** at the Medical Faculty of the University Heidelberg is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
 
 We are contributing to the **OpenLab Epigenomics** initiative to provide support and expertise to groups generating large scale epigenomics datasets like ChIP-seq, ATAC-seq and chromatin interaction data.
 
