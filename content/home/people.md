@@ -6,7 +6,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Lab members"
+title = "People"
 subtitle = "current and past"
 
 # Order that this section will appear in.
@@ -14,7 +14,7 @@ weight = 3
 
 +++
 
-*We are happy to welcome motivated students for lab rotation, bachelor and master thesis.*
+
 
 ## Current lab members
 
@@ -34,3 +34,5 @@ weight = 3
 * Sebastian Steinhauser
 * Paul Saary
 * Ron Schwessinger
+
+###### We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
