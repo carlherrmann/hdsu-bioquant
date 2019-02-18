@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "single-cell multi-omics data integration"
-  organization = ""
+  organization = "[Nature Communication](https://www.nature.com/articles/s41467-018-08205-7)"
   #certificate_url = "https://www.coursera.org"
   date_start = "2019-01-01"
   date_end = ""
-  description = """We developed a method to integrate combined single-cell RNA-seq and scATAC-seq to predict cell specific regulatory networks."""
+  description = """We developed a method to integrate combined single-cell RNA-seq and scATAC-seq to predict cell specific regulatory networks. """
 
 
 
