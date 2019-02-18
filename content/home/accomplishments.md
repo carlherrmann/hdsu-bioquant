@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   #date_start = "2018-10-01"
   #date_end = ""
-  description = "We developed a method to integrate combined single-cell RNA-seq and scATAC-seq to predict cell specific regulatory networks."
+  description = "We developed a method to integrate combined single-cell RNA-seq and scATAC-seq to predict cell specific regulatory networks. "
 
 
 
