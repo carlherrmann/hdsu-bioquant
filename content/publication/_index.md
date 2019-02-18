@@ -13,3 +13,6 @@ view = 4
 image = ""
 caption = ""
 +++
+
+* publication one
+* publication two
