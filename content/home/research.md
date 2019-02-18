@@ -7,7 +7,7 @@ title = "Current Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 3
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "single-cell multi-omics data integration"
   organization = ""
-  certificate_url = "https://www.coursera.org"
+  #certificate_url = "https://www.coursera.org"
   date_start = "2019-01-01"
   date_end = ""
   description = """We developed a method to integrate combined single-cell RNA-seq and scATAC-seq to predict cell specific regulatory networks."""
