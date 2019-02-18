@@ -3,7 +3,7 @@ title = "Deconvolution of single-cell multi-omics layers reveals regulatory hete
 date = 2019-01-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Liu, Liu, Quintero, Liang et al."]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1038/s41467-018-08205-7"
+doi = "10.1038/s41467-018-08205-7"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -46,14 +46,14 @@ projects = ["nmf"]
 
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/s41467-018-08205-7.pdf"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_preprint = ""
+#url_code = "#"
+#url_dataset = "#"
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

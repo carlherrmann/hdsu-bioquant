@@ -3,7 +3,7 @@ title = "Deciphering programs of transcriptional regulation by combined deconvol
 date = 2017-10-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Hübschmann, Kurzawa et al."]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1101/199547"
+doi = "10.1101/199547"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -46,14 +46,14 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/early/2017/10/08/199547.full.pdf"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_preprint = ""
+#url_code = "#"
+#url_dataset = "#"
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

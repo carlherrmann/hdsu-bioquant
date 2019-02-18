@@ -3,7 +3,7 @@ title = "A comprehensive comparison of tools for differential ChIP-seq analysis"
 date = 2016-01-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Steinhauser et al."]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1093/bib/bbv110"
+doi = "10.1093/bib/bbv110"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -46,14 +46,14 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://academic.oup.com/bib/article-pdf/17/6/953/8280399/bbv110.pdf"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_preprint = ""
+#url_code = "#"
+#url_dataset = "#"
+##url_project = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

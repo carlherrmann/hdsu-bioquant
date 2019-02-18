@@ -27,7 +27,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1038/nature24294"
+doi = "10.1038/nature24294"
 
 # Is this a featured publication? (true/false)
 featured = false

@@ -3,7 +3,7 @@ title = "Environment-induced epigenetic reprogramming in genomic regulatory elem
 date = 2016-03-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Bauer et al."]
 
 # Publication type.
 # Legend:
@@ -46,14 +46,14 @@ projects = [""]
 
 # Links (optional).
 url_pdf = "http://msb.embopress.org/content/12/3/861.full.pdf"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_preprint = ""
+#url_code = "#"
+#url_dataset = "#"
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
