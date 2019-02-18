@@ -3,7 +3,7 @@ title = "BCAT1 restricts alpha-KG levels in AML stem cells leading to IDHmut lik
 date = 2017-11-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Raffel, Falcone et al."]
 
 # Publication type.
 # Legend:
@@ -46,14 +46,14 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://www.nature.com/articles/nature24294.pdf"
-url_preprint = ""
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+#url_preprint = ""
+#url_code = "#"
+#url_dataset = "#"
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
