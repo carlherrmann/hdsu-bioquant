@@ -14,7 +14,7 @@ authors = ["Hübschmann, Kurzawa et al."]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "biorxiv"
@@ -42,7 +42,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["deep"]
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/early/2017/10/08/199547.full.pdf"
