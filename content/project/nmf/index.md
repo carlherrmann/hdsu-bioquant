@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "molecular signatures from multi-omics datasets"
+title = "01 - single-cell and bulk multi-omics integration"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Applications of non-negative matrix factorization to genomic datasets"
+summary = "Applications of non-negative matrix factorization to single-cell and bulk genomic datasets"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

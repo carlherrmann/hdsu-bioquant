@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "epigenomics of neuroblastoma"
+title = "02 - epigenomics of neuroblastoma"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
