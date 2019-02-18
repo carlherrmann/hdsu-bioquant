@@ -36,7 +36,7 @@ Bachelor student
 
 ## Christian Heyer
 
-scientist
+Scientist
 
 ## Asma Hamid
 
