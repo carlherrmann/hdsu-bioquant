@@ -18,13 +18,33 @@ weight = 3
 
 ## Current lab members
 
-* Carl Herrmann
-* Ashwini Sharma
-* Andres Quintero
-* Jana Dahlhoff
-* Christian Heyer
-* Asma Hamid
-* Anne-Claire Kröger
+## Carl Herrmann
+
+Group leader
+
+## Ashwini Sharma
+
+Postdoc
+
+## Andres Quintero
+
+PhD student
+
+## Jana Dahlhoff
+
+Bachelor student
+
+## Christian Heyer
+
+scientist
+
+## Asma Hamid
+
+Master student
+
+## Anne-Claire Kröger
+
+Bachelor student
 
 ## Alumni
 
