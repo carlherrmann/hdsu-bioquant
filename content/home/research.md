@@ -7,7 +7,7 @@ title = "Current Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 2
+weight = 9
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
