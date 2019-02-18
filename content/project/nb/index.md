@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "molecular signatures from multi-omics datasets"
+title = "epigenomics of neuroblastoma"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Applications of non-negative matrix factorization to genomic datasets"
+summary = "We use epigenomics datasets to characterize neuroblastoma subtypes"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,4 +44,4 @@ external_link = ""
   focal_point = "Smart"
 +++
 
-We are developing various flavors of non-negative matrix factorization to extract lower dimensional representation from multi-omics data layers in bulk and single-cell genomics.
+Neuroblastoma subtypes appear to be strongly defined through epigenomic profiles. We integrate ChIP-seq data on histone modification to extract specific signatures for NB subtypes from tumors and cell lines.
