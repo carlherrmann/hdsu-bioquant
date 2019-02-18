@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Biomedical Genomics"
+name = ""
 
 # Is this the primary user of the site?
 superuser = true
