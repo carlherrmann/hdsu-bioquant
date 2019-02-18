@@ -27,6 +27,13 @@ interests = [
   "Computational Biomedicine"
 ]
 
+'Current Projects' = [
+  "Gene Regulation",
+  "Epigenomics in Disease",
+  "Machine Learning",
+  "Biological Networks",
+  "Computational Biomedicine"
+]
 
 
 # Social/Academic Networking
