@@ -18,7 +18,7 @@ count = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 1
+view = 3
 
 # Filter by publication type.
 # -1: Any
@@ -35,3 +35,4 @@ publication_type = "-1"
 exclude_featured = false
 +++
 
+Find all of our publications at [Google Scholar](https://goo.gl/7ZsVxm)
