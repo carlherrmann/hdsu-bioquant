@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-## Current lab members
+### Current lab members
 
 * Carl Herrmann
 * Ashwini Sharma
@@ -24,4 +24,11 @@ weight = 60
 * Asma Hamid
 * Anne-Claire Kröger
 
-## Alumni
+### Alumni
+
+* Calvin Chan
+* Qi Wang
+* Nils Kurzawa
+* Sebastian Steinhauser
+* Paul Saary
+* Ron Schwessinger
