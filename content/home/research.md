@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "single-cell multi-omics data integration"
-  organization = "[Nature Communication 2018](https://www.nature.com/articles/s41467-018-08205-7)"
+  organization = ""
   #certificate_url = "https://www.coursera.org"
   #date_start = "2018-10-01"
   #date_end = ""
