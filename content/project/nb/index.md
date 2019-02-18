@@ -45,3 +45,5 @@ external_link = ""
 +++
 
 Neuroblastoma subtypes appear to be strongly defined through epigenomic profiles. We integrate ChIP-seq data on histone modification to extract specific signatures for NB subtypes from tumors and cell lines.
+
+This work is done in close collaboration with the [Division of Neuroblastoma Genomics](https://www.dkfz.de/en/neuroblastom-genomik/index.php) at the DKFZ
