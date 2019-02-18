@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Lab members"
-subtitle = ""
+subtitle = "always happy to welcome students for lab rotations!"
 
 # Order that this section will appear in.
 weight = 60
