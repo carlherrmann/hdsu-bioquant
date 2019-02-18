@@ -27,7 +27,7 @@ interests = [
   "Computational Biomedicine"
 ]
 
-'Current Projects' = [
+Projects = [
   "Gene Regulation",
   "Epigenomics in Disease",
   "Machine Learning",
