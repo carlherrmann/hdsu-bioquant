@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "People"
-subtitle = "current and past"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 3
