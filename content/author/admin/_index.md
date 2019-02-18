@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "Medical Faculty Heidelberg", url = "http://www.medizinische-fakultaet-hd.uni-heidelberg.de/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
