@@ -1,16 +1,16 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Biomedical Genomics"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Medical Faculty - University Heidelberg", url = "http://www.medizinische-fakultaet-hd.uni-heidelberg.de/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -20,9 +20,11 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Gene Regulation",
+  "Epigenomics in Disease",
+  "Machine Learning",
+  "Biological Networks",
+  "Computational Biomedicine"
 ]
 
 # List qualifications (such as academic degrees)
@@ -75,6 +77,5 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Biomedical Genomics group in the Health Data Science Unit is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
