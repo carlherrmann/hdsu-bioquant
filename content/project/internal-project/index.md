@@ -10,7 +10,7 @@ summary = "Applications of non-negative matrix factorization to genomic datasets
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["genomics", "machine-learning"]
+tags = ["genomics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
