@@ -42,6 +42,11 @@ Scientist
 
 Master student
 
+##### Clothilde Chenal
+
+Master student
+
+
 ##### Anne-Claire Kröger
 
 Bachelor student
