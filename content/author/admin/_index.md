@@ -1,6 +1,6 @@
 +++
 # Display name
-name = ""
+name = "Carl Herrmann"
 
 # Is this the primary user of the site?
 superuser = true
@@ -27,7 +27,9 @@ email = ""
 #  "Computational Biomedicine"
 #]
 
-
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups = ["Principal Investigators"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
