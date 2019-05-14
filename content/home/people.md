@@ -52,13 +52,6 @@ Postdoc
 
 PhD student
 
-##### Jana Dahlhoff
-
-Bachelor student
-
-##### Christian Heyer
-
-Scientist
 
 ##### Asma Hamid
 
