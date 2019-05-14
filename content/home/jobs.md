@@ -10,7 +10,7 @@ title = "Open Positions"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 2
+weight = 2.5
 
 +++
 
