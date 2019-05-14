@@ -16,7 +16,7 @@ organizations = [ { name = "BioQuant - Medical Faculty Heidelberg", url = "http:
 bio = "Computational Biologist"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "ashwini.sharma@bioquant.uni-heidelberg.de"
+email = "andres.quintero@bioquant.uni-heidelberg.de"
 
 # List (academic) interests or hobbies
 interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "Biological Networks"]
