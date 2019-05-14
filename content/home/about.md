@@ -8,5 +8,5 @@ title = "About us..."
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
-authors = "Admin"
+author = "Admin"
 +++

@@ -6,7 +6,7 @@ name = "Ashwini Kumar Sharma"
 superuser = false
 
 # Role/position
-role = "PostDoc"
+role = "Postdoc"
 
 # Organizations/Affiliations
 # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,7 +23,7 @@ interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "B
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["postdoc"]
+user_groups = ["Current"]
 
 #List qualifications (such as academic degrees)
 [[education.courses]] 

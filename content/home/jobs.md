@@ -17,4 +17,4 @@ weight = 2.5
 We are hiring postdocs and PhD students for a number of projects:
 
 * **Bioinformatician** for single-cell developments in the context of viral infection 
-* PhD position for a project on chromatin determinants of HIV-1 insertion in microglia cells (collaboration for Dep. of Infectuous Diseases, medical Faculty Heidelberg)
+* **PhD position** for a DFG-funded project on chromatin determinants of HIV-1 insertion in microglia cells (collaboration with Marina Lusic,  dep. of Infectuous Diseases, medical Faculty Heidelberg)

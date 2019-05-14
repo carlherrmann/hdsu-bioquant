@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Carl Herrmann"
+name = ""
 
 # Is this the primary user of the site?
 superuser = true
@@ -29,7 +29,7 @@ email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["pi"]
+user_groups = ["hdsu"]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -60,7 +60,7 @@ user_groups = ["pi"]
 
 +++
 
-The **Biomedical Genomics Group @ Health Data Science Unit** at the Medical Faculty Heidelberg is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
+The **Biomedical Genomics Group @ Health Data Science Unit** at the BioQuant Center - University Heidelberg and Medical Faculty Heidelberg is working on understanding gene (de)regulation in disease. We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
 
 We are contributing to the **OpenLab Epigenomics** initiative to provide support and expertise to groups generating large scale epigenomics datasets like ChIP-seq, ATAC-seq and chromatin interaction data.
 

@@ -23,7 +23,7 @@ interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "B
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["phd"]
+user_groups = ["Current"]
 
 #List qualifications (such as academic degrees)
 #[[education.courses]] course = "PhD" institution = "DKFZ" year = 2014
