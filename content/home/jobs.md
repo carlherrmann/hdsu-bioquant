@@ -14,7 +14,7 @@ weight = 2
 
 +++
 
-We are hiring postdocs and PhD students for a series of projects:
+We are hiring postdocs and PhD students for a number of projects:
 
 * **Bioinformatician** for single-cell developments in the context of viral infection 
 * PhD position for a project on chromatin determinants of HIV-1 insertion in microglia cells (collaboration for Dep. of Infectuous Diseases, medical Faculty Heidelberg)
