@@ -23,12 +23,21 @@ interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "B
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers"]
+user_groups = ["postdoc"]
 
 #List qualifications (such as academic degrees)
-[[education.courses]] course = "PhD" institution = "DKFZ" year = 2014
-[[education.courses]] course = "M.Sc in Genomics" institution = "MKU, India" year = 2009
-[[education.courses]] course = "BSc in Biotechnology" institution = "VIT, India" year = 2007
+[[education.courses]] 
+  course = "PhD" 
+  institution = "DKFZ" 
+  year = 2014
+[[education.courses]] 
+  course = "M.Sc in Genomics"
+  institution = "MKU, India"
+  year = 2009
+[[education.courses]] 
+  course = "BSc in Biotechnology"
+  institution = "VIT, India"
+  year = 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

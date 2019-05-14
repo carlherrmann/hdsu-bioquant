@@ -23,7 +23,7 @@ interests = ["Gene Regulation",	"Epigenomics in Disease", "Machine Learning", "B
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers"]
+user_groups = ["phd"]
 
 #List qualifications (such as academic degrees)
 #[[education.courses]] course = "PhD" institution = "DKFZ" year = 2014
@@ -59,4 +59,4 @@ user_groups = ["Researchers"]
 
 +++
 
-I am currently a doctoral canditate at <a href="https://www.dkfz.de/en/index.html">German Cancer Research Center (DKFZ)</a>. I work at  <a href="https://hdsu-bioquant.netlify.com/">the Health Data Science Unit, </a> Universitätsklinikum Heidelberg, Germany.
+I am currently a doctoral candidate at <a href="https://www.dkfz.de/en/index.html">German Cancer Research Center (DKFZ)</a>. I work at  <a href="https://hdsu-bioquant.netlify.com/">the Health Data Science Unit, </a> Universitätsklinikum Heidelberg, Germany.
