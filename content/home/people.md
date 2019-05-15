@@ -1,7 +1,7 @@
 +++
 # People widget.
 widget = "people"  # Do not modify this line!
-active = true  # Activate this widget?  true/false
+active = true  # Activate this widget? true/false
 
 title = "People"
 subtitle = ""
@@ -11,6 +11,56 @@ weight = 3 #68
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Current",
-               "Alumni"]
+#user_groups = ["Principal Investigators",
+#               "Researchers",
+#               "Grad Students",
+##               "Administration",
+#               "Visitors",
+#               "Alumni"]
 +++
+
+
+
+## Current lab members
+
+##### Carl Herrmann
+
+Group leader
+
+##### Ashwini Sharma
+
+Postdoc
+
+##### Andres Quintero
+
+PhD student
+
+
+##### Asma Hamid
+
+Master student
+
+##### Clothilde Chenal
+
+Master student
+
+
+##### Anne-Claire Kröger
+
+Bachelor student
+
+##### Julia Rühle
+
+Master student
+
+## Alumni
+
+* Calvin Chan
+* Qi Wang
+* Nils Kurzawa
+* Sebastian Steinhauser
+* Paul Saary
+* Ron Schwessinger
+* Christian Heyer
+
+We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
