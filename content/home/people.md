@@ -21,7 +21,6 @@ weight = 3 #68
 
 
 
-## Current lab members
 
 ##### Carl Herrmann
 
