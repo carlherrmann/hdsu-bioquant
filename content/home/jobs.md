@@ -17,4 +17,4 @@ weight = 2.5
 We are hiring postdocs and PhD students for a number of projects:
 
 * **Bioinformatician** for single-cell developments in the context of viral infection (DFG Interregio project [TRR179](http://trr179.de)); for more information, [check the detailed description](/Bioinformatician_TRR179.pdf)
-* **PhD position** for a DFG-funded project on chromatin determinants of HIV-1 insertion in microglia cells (collaboration with Marina Lusic,  dep. of Infectuous Diseases, medical Faculty Heidelberg)
+* **PhD position** for a DFG-funded project on chromatin determinants of HIV-1 insertion in microglia cells (collaboration with Marina Lusic,  dep. of Infectuous Diseases, medical Faculty Heidelberg) [check the detailed description](/PhD_position_SPP.pdf)
