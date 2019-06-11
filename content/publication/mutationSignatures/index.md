@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "BMC Medical Genomics"
-publication_short = "BMC med. gen."
+publication_short = "BMC Med Genomics"
 
 # Abstract.
 abstract = ""
