@@ -14,7 +14,7 @@ weight = 2.5
 
 +++
 
-We are hiring postdocs and PhD students for a number of projects:
+We are hiring for a number of projects:
 
 
 * (NEW!) **PhD position** for a project on machine-learning approaches to data integration for the stratification of schizophrenia patients;
