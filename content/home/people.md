@@ -34,23 +34,14 @@ Postdoc
 
 PhD student
 
+#### Ana Luísa Costa
 
-##### Asma Hamid
+PhD student
 
-Master student
-
-##### Clothilde Chenal
-
-Master student
-
-
-##### Anne-Claire Kröger
-
-Bachelor student
-
-##### Julia Rühle
+#### Daria Doncevic
 
 Master student
+
 
 ## Alumni
 
@@ -61,5 +52,9 @@ Master student
 * Paul Saary
 * Ron Schwessinger
 * Christian Heyer
+* Asma Hamid
+* Clothilde Chenal
+* Jérémie Perrin
+* 
 
 We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
