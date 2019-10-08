@@ -16,7 +16,7 @@ weight = 7
 
 Members of the lab are involved in teaching in the [Molecular Biotechnology Bachelor and Master Program](https://www.uni-heidelberg.de/courses/prospective/academicprograms/Molecular_Biotechnology_en_ba.html) at the university Heidelberg.
 
-Winter semester 2019/2010
+#### Winter semester 2019 / 2010
 
-* 1. FS : Mathe A Vorlesung [hier die Webseite](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
-* 3. FS : Data Analysis Course [hier die Webseite](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
+* MoBi Bachelor 1. FS : Mathe A Vorlesung [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
+* MoBi Bachelor 3. FS : Data Analysis Course [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
