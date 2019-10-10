@@ -18,11 +18,11 @@ Members of the lab are involved in teaching in the [Molecular Biotechnology Bach
 
 #### Summer semester 2019 
 
-* MoBi Bachelor 2. FS : Mathe B Vorlesung [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/matheb/)
-* MoBi Bachelor 4. FS : Data Analysis Project [[hier die Webseite]](https://datascience-mobi.github.io)
-* MoBi Bachelor 6. FS : Bioinformatik 2 [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo2/)
+* MoBi Bachelor 2. FS :  [Mathematik B](http://bioinfo.ipmb.uni-heidelberg.de/crg/matheb/)
+* MoBi Bachelor 4. FS :  [Data Analysis Project](https://datascience-mobi.github.io)
+* MoBi Bachelor 6. FS :  [Bioinformatik 2](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo2/)
 
 #### Winter semester 2019 / 2020
 
-* MoBi Bachelor 1. FS : Mathe A Vorlesung [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
-* MoBi Bachelor 3. FS : Data Analysis Course [[hier die Webseite]](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
+* MoBi Bachelor 1. FS :  [Mathematik A](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
+* MoBi Bachelor 3. FS :  [Data Analysis Course](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
