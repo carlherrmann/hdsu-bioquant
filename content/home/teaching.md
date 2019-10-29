@@ -16,6 +16,8 @@ weight = 7
 
 Members of the lab are involved in teaching in the [Molecular Biotechnology Bachelor and Master Program](https://www.uni-heidelberg.de/courses/prospective/academicprograms/Molecular_Biotechnology_en_ba.html) at the university Heidelberg.
 
+*************
+
 ### Bachelor thesis projects 2020
 
 Here are some possible topics/projects for students wanting do to their bachelor thesis in our group during the summer semester 2020
@@ -35,6 +37,8 @@ References
 * [The single-cell transcriptional landscape of mammalian organogenesis](http://www.nature.com/articles/s41586-019-0969-x)
 
 #### Topic 2 : single-cell multi-omics integration using auto-encode strategies
+
+*************
 
 ### Courses
 
