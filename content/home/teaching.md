@@ -25,11 +25,13 @@ Here are some possible topics/projects for students wanting do to their bachelor
 Currently, more and more single-cell RNA-seq datasets are generated to increase the resolution of transcriptomics to the single-cell level. These datasets allow to understand the mixture of cell types within a tissue sample, and have been applied to create atlases of cell types from mouse embryos. On the other hand, these are thousands of bulk RNA-seq datasets available, which lack this resolution. We are working on implementing methods to re-interpret bulk datasets using single-cell information, and map for example patient data onto trajectories defined from single-cell expression. The project would be to contribute to the development of this method, in particular the visualization of the data, and to apply it to a large set of pediatric tumor types. Comparison to datasets of normal tumor would be used to validate the method.
 
 Main aspects:
+
 * data analysis of sequencing data
 * interactive visualization using Shiny
 * comparative genomics (mouse/human)
 
 References
+
 * [The single-cell transcriptional landscape of mammalian organogenesis](http://www.nature.com/articles/s41586-019-0969-x)
 
 #### Topic 2 : single-cell multi-omics integration using auto-encode strategies

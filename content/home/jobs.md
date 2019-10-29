@@ -14,4 +14,4 @@ weight = 2.5
 
 +++
 
-Check the list of topics for bachelor thesis for the summer semester 2020!
+We always welcome motivated students with programming skills for lab rotations!
