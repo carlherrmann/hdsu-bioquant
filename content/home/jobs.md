@@ -14,8 +14,4 @@ weight = 2.5
 
 +++
 
-We are hiring for a number of projects:
-
-
-* (NEW!) **PhD position** for a project on machine-learning approaches to data integration for the stratification of schizophrenia patients;
-for more information, [check the detailed description](/COMMITMENT_PhD.pdf)
+Check the list of topics for bachelor thesis for the summer semester 2020!
