@@ -65,6 +65,18 @@ References
 * see for example [this paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095875#s2)
 
 
+
+#### Topic 4 : differential "in-silico phenotyping" of tumor and normal tissues
+
+The existence of large RNA-seq datasets of tumor tissue and matching normal tissue allows to conduct comparative studies. In particular, recent approaches allow to determine the activity of pathways and transcription factors from the transcriptomic data, which can be used to understand how pathways and master regulators are jointly activated or seem to have mutually exclusive patterns. In recent projects, we have for example described how mesenchymal phenotypes appear to be tightly related to pathway activation, for example the RAS pathway. The goal of the project is to conduct a large scale analysis of the activity patterns of pathways and master regulators, and to understand how these patterns are perturbed in tumor tissues compared with normal counterpart. We will in particular focus on processes related to ferroptosis accross various tumor types to describe how this process is related to other pathways.
+
+Main aspects
+
+* large scale processing of transcriptomic data from TCGA
+* implementation of statistical methods to study differential correlation
+* visual representation of the data and interactive data mining.
+
+
 *************
 
 ### Courses

@@ -46,7 +46,7 @@ Postdoc
 
 
 
-
+***********
 
 
 
@@ -62,6 +62,5 @@ Postdoc
 * Asma Hamid
 * Clothilde Chenal
 * Jérémie Perrin
-* 
 
 We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
