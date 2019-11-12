@@ -64,3 +64,9 @@ Postdoc
 * Jérémie Perrin
 
 We are happy to welcome motivated students for lab rotation, bachelor and master thesis.
+
+image:
+  placement: 1
+  caption: "Group picture as of November 2019"
+  focal_point: "Center"
+  preview_only: false
