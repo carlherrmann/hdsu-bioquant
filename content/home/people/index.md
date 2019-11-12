@@ -19,7 +19,7 @@ weight = 3 #68
 #               "Alumni"]
 +++
 
-![Group picture as of November, 2019](/group.jpg)
+![Group picture as of November, 2019](group.jpg)
 
 #### Ana Luísa Costa
 
