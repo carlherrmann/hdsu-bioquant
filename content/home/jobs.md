@@ -14,4 +14,4 @@ weight = 2.5
 
 +++
 
-We always welcome motivated students with programming skills for lab rotations!
+New! We are looking for a *scientific associate* for a one-year project to implement a benchmarking platform in a cloud environment to test cellular deconvolution methods for RNA-seq/DNA methylation data.
