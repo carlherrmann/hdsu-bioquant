@@ -64,8 +64,9 @@ The **Biomedical Genomics Group @ Health Data Science Unit** at the BioQuant Cen
 
 We are contributing to the **OpenLab Epigenomics** initiative to provide support and expertise to groups generating large scale epigenomics datasets like ChIP-seq, ATAC-seq and chromatin interaction data.
 
+**RESEARCH NEWS**
 
-*We are contributing to the SARS-CoV-2 research effort and developped MapMyCorona, an interactive website to display blast results of viral sequences to available SARS-CoV-2 sequences in a geographical and temporal fashion*
+We are contributing to the SARS-CoV-2 research effort and developped MapMyCorona, an interactive website to display blast results of viral sequences to available SARS-CoV-2 sequences in a geographical and temporal fashion
 
 Links:
 
