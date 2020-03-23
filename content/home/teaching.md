@@ -18,6 +18,23 @@ Members of the lab are involved in teaching in the [Molecular Biotechnology Bach
 
 *************
 
+### Courses
+
+#### Winter semester 2019 / 2020
+
+* MoBi Bachelor 1. FS :  [Mathematik A](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
+* MoBi Bachelor 3. FS :  [Data Analysis Course](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
+* MoBi Bachelor 5. FS :  [Bioinformatics 1](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo1/)
+
+#### Summer semester 2019 
+
+* MoBi Bachelor 2. FS :  [Mathematik B](http://bioinfo.ipmb.uni-heidelberg.de/crg/matheb/)
+* MoBi Bachelor 4. FS :  [Data Analysis Project](https://datascience-mobi.github.io)
+* MoBi Bachelor 6. FS :  [Bioinformatik 2](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo2/)
+
+
+*************
+
 ### Bachelor thesis projects 2020
 
 Here are some possible topics/projects for students wanting do to their bachelor thesis in our group during the summer semester 2020
@@ -82,19 +99,4 @@ Main aspects
 * visual representation of the data and interactive data mining.
 
 
-*************
-
-### Courses
-
-#### Winter semester 2019 / 2020
-
-* MoBi Bachelor 1. FS :  [Mathematik A](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
-* MoBi Bachelor 3. FS :  [Data Analysis Course](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
-* MoBi Bachelor 5. FS :  [Bioinformatics 1](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo1/)
-
-#### Summer semester 2019 
-
-* MoBi Bachelor 2. FS :  [Mathematik B](http://bioinfo.ipmb.uni-heidelberg.de/crg/matheb/)
-* MoBi Bachelor 4. FS :  [Data Analysis Project](https://datascience-mobi.github.io)
-* MoBi Bachelor 6. FS :  [Bioinformatik 2](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo2/)
 
