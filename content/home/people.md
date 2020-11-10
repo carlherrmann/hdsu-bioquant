@@ -27,7 +27,7 @@ PhD student
 
 #### Daria Doncevic
 
-Master student
+PhD student
 
 ##### Carl Herrmann
 

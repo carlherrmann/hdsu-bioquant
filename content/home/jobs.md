@@ -14,6 +14,4 @@ weight = 2.5
 
 +++
 
-#### Scientific associate for cellular deconvolution benchmarking project
 
-We are looking for a *scientific associate* for a one-year project to implement a benchmarking platform in a cloud environment to test cellular deconvolution methods for RNA-seq/DNA methylation data. Find the [job description here](position_COMETH.pdf)
