@@ -64,7 +64,7 @@ The **Biomedical Genomics Group @ Health Data Science Unit** at the BioQuant Cen
 
 We are contributing to the **OpenLab Epigenomics** initiative to provide support and expertise to groups generating large scale epigenomics datasets like ChIP-seq, ATAC-seq and chromatin interaction data.
 
-** +++ CHECK THE BACHELOR THESIS TOPICS IN THE TEACHING SECTION +++ **
+**+++ CHECK THE BACHELOR THESIS TOPICS IN THE TEACHING SECTION +++**
 
 **RESEARCH NEWS**
 
