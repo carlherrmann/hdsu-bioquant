@@ -83,7 +83,7 @@ Main aspects
 
 References
 
-* see for example [this paper](Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report)
+* see for example [this paper: Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report](http://www.nature.com/articles/s42255-020-00281-8)
 * [COVID-19, diabetes mellitus and ACE2: The conundrum](https://doi.org/10.1016/j.diabres.2020.108132)
 
 #### Topic 3 : differential "in-silico phenotyping" of tumor and normal tissues
