@@ -41,10 +41,6 @@ Postdoc
 
 PhD student
 
-##### Ashwini Sharma
-
-Postdoc
-
 ##### Youcheng Zhang
 
 PhD student
@@ -57,11 +53,13 @@ PhD student
 
 ## Alumni
 
+* Ashwini Sharma
 * Calvin Chan
 * Qi Wang
 * Nils Kurzawa
 * Sebastian Steinhauser
 * Paul Saary
+* Amalia Tsakalia
 * Ron Schwessinger
 * Christian Heyer
 * Asma Hamid
